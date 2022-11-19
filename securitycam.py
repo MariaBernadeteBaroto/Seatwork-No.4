@@ -28,4 +28,5 @@ while cam.isOpened():
         break
     cv2.imshow('Computer Cam', frame1)
 
-
+# Credits:
+# https://www.youtube.com/watch?v=UOIKXp82iEw&list=RDCMUCStj-ORBZ7TGK1FwtGAUgbQ&index=4
